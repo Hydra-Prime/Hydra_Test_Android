@@ -1,0 +1,23 @@
+{
+"urls": [
+    {
+      "id": 21,
+      "playlist_id": 21,
+      "playlist_name": "DNS 3",
+      "url": "http://aws85485.amazonedge.net/",
+      "full_url": "http://aws85485.amazonedge.net/get.php?username=0544483389&password=1622590",
+      "username": "0544483389",
+      "password": "1622590",
+      "epg_url": null,
+      "is_protected": "0",
+      "command": "url1",
+      "playlist_type": "xc",
+      "created_at": "2025-03-31 08:21:13",
+      "updated_at": "2025-03-31 08:21:13",
+      "hide_live_cat": null,
+      "hide_vod_cat": null,
+      "hide_series_cat": null
+    }
+  ]
+
+}
